@@ -1,0 +1,8 @@
+<%= simple_form_for users_path, method: :post do |f| %>
+  <%= f.input :email %>
+  <%= f.input :origin, collection: ["G1", "G2", "G3"] %>
+  <%= f.input :qualification, collection: ["vocational qualification", "university degree", "none"] %>
+  <%= f.input :german_graduation, as: :radio_buttons %>
+  <%= f.input :job_offer, as: :radio_buttons %>
+  <%= f.submit %>
+<% end %>
