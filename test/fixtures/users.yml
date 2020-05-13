@@ -1,0 +1,60 @@
+user1:
+  email: <%= Faker::Internet.email %>
+  origin: "G1"
+  qualification: "vocational"
+  german_graduation: true
+  job_offer: true
+user2:
+  email: <%= Faker::Internet.email %>
+  origin: "G2"
+  qualification: "vocational"
+  german_graduation: true
+  job_offer: true
+user3:
+  email: <%= Faker::Internet.email %>
+  origin: "G2"
+  qualification: "vocational"
+  german_graduation: true
+  job_offer: false
+user4:
+  email: <%= Faker::Internet.email %>
+  origin: "G2"
+  qualification: "vocational"
+  german_graduation: false
+  job_offer: true
+user5:
+  email: <%= Faker::Internet.email %>
+  origin: "G2"
+  qualification: "vocational"
+  german_graduation: false
+  job_offer: false
+user6:
+  email: <%= Faker::Internet.email %>
+  origin: "G2"
+  qualification: "university"
+  german_graduation: true
+  job_offer: true
+user7:
+  email: <%= Faker::Internet.email %>
+  origin: "G2"
+  qualification: "university"
+  german_graduation: true
+  job_offer: false
+user8:
+  email: <%= Faker::Internet.email %>
+  origin: "G2"
+  qualification: "university"
+  german_graduation: false
+  job_offer: true
+user9:
+  email: <%= Faker::Internet.email %>
+  origin: "G2"
+  qualification: "university"
+  german_graduation: false
+  job_offer: false
+user10:
+  email: <%= Faker::Internet.email %>
+  origin: "G2"
+  qualification: "none"
+  german_graduation: false
+  job_offer: false
