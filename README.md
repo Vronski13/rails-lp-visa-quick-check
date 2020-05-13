@@ -1,1 +1,9 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+**Visa Quick Check Landingpage**
+
+Simple landingpage that allows an individual to enter some information (including
+their email address) and learn about their chances to obtain a work permit in Germany. 
+
+Following the logic of this website: 
+https://www.make-it-in-germany.com/en/visa/quick-check/
+
+Focus on the flow for an immigrant who wants to work in Germany
