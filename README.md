@@ -5,3 +5,5 @@ their email address) and learn about their chances to obtain a work permit in Ge
 
 Following the logic of this website: 
 https://www.make-it-in-germany.com/en/visa/quick-check/
+
+Focus on the flow for an immigrant who wants to work in Germany
